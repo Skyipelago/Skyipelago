@@ -10,9 +10,10 @@ python3 tools/generate.py
 
 ```bash
 cd client
+./gradlew build
 cd ..
-cp client/build/libs/skyipelago-0.1.0.jar ../modpack/mods/skyipelago-0.1.0.jar
 ```
+copy the .jar file at client/build/libs/ into the Modpack
 
 **APWorld:**
 
