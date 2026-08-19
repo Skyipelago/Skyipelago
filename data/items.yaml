@@ -1,0 +1,82 @@
+# Delivery is what the Minecraft client does when this AP item arrives:
+#   give    — stash a real stack in the mailbox (/ap mailbox to collect)
+#   unlock  — reveal an FTB Quests chapter (see data/regions.yaml)
+# An item may have both, one, or neither.
+# Names must be unique even when every item gives the same stack.
+id_base: 87100000
+items:
+  thermal_key:
+    name: Thermal Key
+    classification: progression
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+    unlock:
+      chapter: thermal
+  gold_ingot_1:
+    name: Gold Ingot 1
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_2:
+    name: Gold Ingot 2
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_3:
+    name: Gold Ingot 3
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_4:
+    name: Gold Ingot 4
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_5:
+    name: Gold Ingot 5
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_6:
+    name: Gold Ingot 6
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_7:
+    name: Gold Ingot 7
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_8:
+    name: Gold Ingot 8
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_9:
+    name: Gold Ingot 9
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_10:
+    name: Gold Ingot 10
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+  gold_ingot_11:
+    name: Gold Ingot 11
+    classification: filler
+    give:
+      item: minecraft:gold_ingot
+      count: 1
+

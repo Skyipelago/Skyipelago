@@ -1,0 +1,64 @@
+{
+  "locations": [
+    {
+      "quest": "761701fd62993065",
+      "id": 87000001,
+      "name": "Welcome to Skyipelago"
+    },
+    {
+      "quest": "036f39c4c7333d59",
+      "id": 87000002,
+      "name": "Oak Log"
+    },
+    {
+      "quest": "458b039503c8e217",
+      "id": 87000003,
+      "name": "String"
+    },
+    {
+      "quest": "34dd6f186a3e1ac7",
+      "id": 87000004,
+      "name": "String Mesh"
+    },
+    {
+      "quest": "23111bcb1eb5da69",
+      "id": 87000005,
+      "name": "Cobblestone"
+    },
+    {
+      "quest": "07442e493b9c5306",
+      "id": 87000006,
+      "name": "Stone Hammer"
+    },
+    {
+      "quest": "53905fea998dfbb4",
+      "id": 87000007,
+      "name": "Hammer Time but More"
+    },
+    {
+      "quest": "248d41594d787960",
+      "id": 87000008,
+      "name": "Gravel, Sand, and Dust"
+    },
+    {
+      "quest": "2e87d640d3ec75fb",
+      "id": 87000009,
+      "name": "Compressed Gravel, Sand, and Dust"
+    },
+    {
+      "quest": "0a1a02bf33b8135e",
+      "id": 87000010,
+      "name": "Oak Sieve"
+    },
+    {
+      "quest": "39bbfd11affe24a5",
+      "id": 87000011,
+      "name": "Oak Compressed Sieve"
+    },
+    {
+      "quest": "0000000087020001",
+      "id": 87000012,
+      "name": "Enter Thermal"
+    }
+  ]
+}

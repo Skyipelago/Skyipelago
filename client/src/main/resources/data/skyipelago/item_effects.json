@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": 87100001,
+      "slug": "thermal_key",
+      "name": "Thermal Key",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      },
+      "unlock": {
+        "chapter": "thermal",
+        "title": "Thermal",
+        "chapter_id": "0000000087020000",
+        "gate_quest": "0000000087200102"
+      }
+    },
+    {
+      "id": 87100002,
+      "slug": "gold_ingot_1",
+      "name": "Gold Ingot 1",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100003,
+      "slug": "gold_ingot_2",
+      "name": "Gold Ingot 2",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100004,
+      "slug": "gold_ingot_3",
+      "name": "Gold Ingot 3",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100005,
+      "slug": "gold_ingot_4",
+      "name": "Gold Ingot 4",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100006,
+      "slug": "gold_ingot_5",
+      "name": "Gold Ingot 5",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100007,
+      "slug": "gold_ingot_6",
+      "name": "Gold Ingot 6",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100008,
+      "slug": "gold_ingot_7",
+      "name": "Gold Ingot 7",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100009,
+      "slug": "gold_ingot_8",
+      "name": "Gold Ingot 8",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100010,
+      "slug": "gold_ingot_9",
+      "name": "Gold Ingot 9",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100011,
+      "slug": "gold_ingot_10",
+      "name": "Gold Ingot 10",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    },
+    {
+      "id": 87100012,
+      "slug": "gold_ingot_11",
+      "name": "Gold Ingot 11",
+      "give": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      }
+    }
+  ]
+}

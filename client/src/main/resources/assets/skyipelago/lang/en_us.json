@@ -1,0 +1,5 @@
+{
+  "commands.skyipelago.connect": "Connect to an Archipelago room",
+  "commands.skyipelago.disconnect": "Disconnect from Archipelago",
+  "commands.skyipelago.status": "Show Archipelago connection status"
+}

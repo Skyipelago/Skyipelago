@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.iml
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+client/.gradle/
+client/build/
+client/run/
+client/out/
+client/repo/

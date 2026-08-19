@@ -1,0 +1,52 @@
+# One FTB quest = one AP location. quest is the hex id from the pack SNBT.
+# Completing that quest sends this check. Do not invent ids here.
+id_base: 87000000
+locations:
+  welcome_to_skyipelago:
+    name: Welcome to Skyipelago
+    quest: "761701FD62993065"
+    region: spawn
+  oak_log:
+    name: Oak Log
+    quest: "036F39C4C7333D59"
+    region: spawn
+  string:
+    name: String
+    quest: "458B039503C8E217"
+    region: spawn
+  string_mesh:
+    name: String Mesh
+    quest: "34DD6F186A3E1AC7"
+    region: spawn
+  cobblestone:
+    name: Cobblestone
+    quest: "23111BCB1EB5DA69"
+    region: spawn
+  stone_hammer:
+    name: Stone Hammer
+    quest: "07442E493B9C5306"
+    region: spawn
+  hammer_time_but_more:
+    name: Hammer Time but More
+    quest: "53905FEA998DFBB4"
+    region: spawn
+  gravel_sand_and_dust:
+    name: Gravel, Sand, and Dust
+    quest: "248D41594D787960"
+    region: spawn
+  compressed_gravel_sand_and_dust:
+    name: Compressed Gravel, Sand, and Dust
+    quest: "2E87D640D3EC75FB"
+    region: spawn
+  oak_sieve:
+    name: Oak Sieve
+    quest: "0A1A02BF33B8135E"
+    region: spawn
+  oak_compressed_sieve:
+    name: Oak Compressed Sieve
+    quest: "39BBFD11AFFE24A5"
+    region: spawn
+  enter_thermal:
+    name: Enter Thermal
+    quest: "0000000087020001"
+    region: thermal

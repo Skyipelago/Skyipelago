@@ -1,0 +1,47 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Skyipelago"
+description='''
+Archipelago client for Skyipelago. Completing a mapped FTB Quests quest sends a LocationChecks packet.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="ftblibrary"
+    type="required"
+    versionRange="[2101.1.0,2102)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="ftbteams"
+    type="required"
+    versionRange="[2101.1.0,2102)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="ftbquests"
+    type="required"
+    versionRange="[2101.1.0,2102)"
+    ordering="AFTER"
+    side="BOTH"

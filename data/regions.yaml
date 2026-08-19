@@ -1,0 +1,21 @@
+# Logical areas. Each region is one FTB Quests chapter in the pack.
+# start_unlocked chapters are visible from sphere 0.
+# Locked chapters stay hidden until an item with unlock.chapter: <slug> is received.
+# chapter_id / gate_* pin the existing pack SNBT ids so generate.py does not invent new ones.
+id_base: 0x87200000
+regions:
+  spawn:
+    title: Welcome
+    filename: 01__welcome
+    icon: minecraft:oak_sapling
+    start_unlocked: true
+    chapter_id: 0x1D5C2FFAEA9F0C82
+  thermal:
+    title: Thermal
+    filename: 02_thermal
+    icon: minecraft:blaze_rod
+    start_unlocked: false
+    via: spawn
+    chapter_id: 0x87020000
+    gate_quest_id: 0x87200102
+    gate_task_id: 0x87200202

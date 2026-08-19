@@ -1,0 +1,19 @@
+{
+	id: "00000000872000ff"
+	filename: "gates"
+	title: "Gates"
+	icon: "minecraft:iron_bars"
+	always_invisible: true
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "0000000087200102"
+			title: "Thermal Key"
+			tasks: [{
+				id: "0000000087200202"
+				type: "checkmark"
+			}]
+		}
+	]
+}
